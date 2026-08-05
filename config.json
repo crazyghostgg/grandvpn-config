@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "last_updated": "2026-08-05",
+  "active_nodes": [
+    {
+      "id": "node_de_01",
+      "name": "Germany, Düsseldorf",
+      "type": "vless",
+      "server_ip": "185.119.17.156",
+      "server_port": 443,
+      "uuid": "abde7fe1-719c-4919-ab3a-6510eece1bc6",
+      "public_key": "Zu_3QJ0NWoLk63yyVcaUNavBq0AiTeX7vhXTkFihIQU",
+      "short_id": "a1b2c3d4",
+      "sni": "dl.google.com",
+      "fingerprint": "chrome",
+      "flow": "xtls-rprx-vision"
+    }
+  ],
+  "sni_options": [
+    "dl.google.com",
+    "www.microsoft.com",
+    "cloud.cloudflare.com"
+  ],
+  "fallback_ports": [443, 8443, 2053]
+}
